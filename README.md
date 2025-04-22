@@ -3,7 +3,7 @@
 
 <br>
 
-Ik ben een student opleiding **Informatica** aan Avans Hogeschool in Den Bosch.
+Ik ben een student **Informatica** aan Avans Hogeschool in Den Bosch.
 
 Hier deel ik code en projecten die ik tijdens mijn studie of in mijn vrije tijd heb ontwikkeld.
 
