@@ -14,7 +14,7 @@ Hier deel ik code en projecten die ik tijdens mijn studie of in mijn vrije tijd 
 - Java / JavaFX
 - Kotlin  
 - HTML / CSS / JavaScript  
-- Arduino (C++)  
+- Arduino (C++ / C)  
 - Git & GitHub  
 
 <br>
