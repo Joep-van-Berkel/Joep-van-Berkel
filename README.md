@@ -18,7 +18,7 @@ Hier deel ik code en projecten die ik tijdens mijn studie of in mijn vrije tijd 
 
 ### Talen & Tools
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center;">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
