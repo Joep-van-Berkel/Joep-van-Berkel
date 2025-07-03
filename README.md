@@ -9,23 +9,14 @@ Hier deel ik code en projecten die ik tijdens mijn studie of in mijn vrije tijd 
 
 <br>
 
-## Talen & Tools
-
-- Java / JavaFX
-- Kotlin  
-- HTML / CSS / JavaScript  
-- C++ / C
-- Arduino
-- Git & GitHub  
-
-<br>
-
 ## Contact
 
 - E-mail: *joep.vanberkel@icloud.com*  
 - LinkedIn: *[Joep van Berkel](https://nl.linkedin.com/in/joep-van-berkel-b4634b210?trk=people-guest_people_search-card)*  
 
+<br>
 
+## Talen & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
