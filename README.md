@@ -16,9 +16,10 @@ Hier deel ik code en projecten die ik tijdens mijn studie of in mijn vrije tijd 
 
 <br>
 
-## Talen & Tools
+### Talen & Tools
 
-<p align="center">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -29,4 +30,5 @@ Hier deel ik code en projecten die ik tijdens mijn studie of in mijn vrije tijd 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
-</p>
+
+</div>
