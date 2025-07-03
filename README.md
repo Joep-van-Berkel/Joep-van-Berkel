@@ -1,5 +1,5 @@
 
-# Welkom op mijn GitHub-profiel
+# Welkom op mijn GitHub pagina
 
 <br>
 
