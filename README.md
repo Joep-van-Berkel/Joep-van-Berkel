@@ -16,7 +16,7 @@ Hier deel ik code en projecten die ik tijdens mijn studie of in mijn vrije tijd 
 
 <br>
 
-### Talen & Tools
+## Talen & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
