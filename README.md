@@ -30,5 +30,3 @@ Hier deel ik code en projecten die ik tijdens mijn studie of in mijn vrije tijd 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="60"/>
 </p>
-
-https://github.com/Joep-van-Berkel/Joep-van-Berkel/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark
